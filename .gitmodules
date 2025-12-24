@@ -1,0 +1,6 @@
+[submodule "Backend/PardisTousAcademy"]
+	path = Backend/PardisTousAcademy
+	url = https://github.com/ewanweb/pardistousc-.git
+[submodule "FrontEnd/pardis-client"]
+	path = FrontEnd/pardis-client
+	url = https://github.com/ewanweb/pardis-client.git
